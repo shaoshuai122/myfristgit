@@ -1,9 +1,5 @@
 
-new git
-
-this is  master 
+this is db line
 
 
-在第一的地方改变分支内容
-
-去掉hello
+这里依然保留了 hello
